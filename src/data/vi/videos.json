@@ -1,0 +1,23 @@
+[
+  {
+    "id": "factory-tour",
+    "title": "Tham quan xưởng: cách chúng tôi chế tạo máy",
+    "description": "Tham quan xưởng của chúng tôi, từ cắt thép và hàn đến chạy thử với hạt điều thô.",
+    "videoUrl": "https://res.cloudinary.com/whle9ogj/video/upload/v1791038773/namdu-cashew-factory.mp4",
+    "topic": "Công ty"
+  },
+  {
+    "id": "full-line-demo",
+    "title": "Dây chuyền chế biến hoàn chỉnh đang vận hành",
+    "description": "Dây chuyền trọn gói từ sàng phân loại hạt thô đến đóng gói tại nhà máy khách hàng.",
+    "videoUrl": "https://res.cloudinary.com/whle9ogj/video/upload/v1791038359/namdu-cashew-process-video.mp4",
+    "topic": "Dây chuyền"
+  },
+  {
+    "id": "installation-africa",
+    "title": "Lắp đặt dây chuyền cho khách hàng xuất khẩu",
+    "description": "Kỹ sư của chúng tôi lắp đặt và chạy thử dây chuyền ở nước ngoài.",
+    "videoUrl": "https://res.cloudinary.com/whle9ogj/video/upload/v1791038593/namdu-cashew-installation.mp4",
+    "topic": "Lắp đặt"
+  }
+]

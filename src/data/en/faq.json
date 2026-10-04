@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Machines and capacity",
+    "items": [
+      {
+        "question": "How do I choose the right machines for my factory?",
+        "answer": "Tell us your target capacity (kg per hour or tonnes per day), your raw cashew origin and size, and your available space and power. Our engineers will recommend a line layout and machine list."
+      },
+      {
+        "question": "Can your machines handle raw cashew from different countries?",
+        "answer": "Yes. Blades, screens, and settings are adjustable for different nut sizes. We tune each machine for the raw material you will process."
+      },
+      {
+        "question": "Do you offer complete processing lines?",
+        "answer": "Yes. We supply every stage from raw nut grading, steaming, and shelling to drying, humidifying, peeling, kernel grading, and packing, and we can also supply single machines to upgrade an existing line."
+      }
+    ]
+  },
+  {
+    "title": "Ordering and shipping",
+    "items": [
+      {
+        "question": "How do I get a price?",
+        "answer": "Use the Request a quote button on any machine page or contact us by phone, WhatsApp, Zalo, or email. We will reply with a quotation based on your requirements."
+      },
+      {
+        "question": "What is the typical lead time?",
+        "answer": "Standard machines usually ship within 20 to 30 days after order confirmation. Complete lines take longer depending on configuration."
+      },
+      {
+        "question": "Do you ship internationally?",
+        "answer": "Yes. We export by sea freight and prepare all standard export documents. We can quote FOB or CIF to your nearest port."
+      }
+    ]
+  },
+  {
+    "title": "Installation, training, and warranty",
+    "items": [
+      {
+        "question": "Do you install the machines?",
+        "answer": "Yes. Our engineers install and commission the machines on site and train your operators and maintenance staff."
+      },
+      {
+        "question": "What warranty do you provide?",
+        "answer": "Machines come with a 12-month warranty on manufacturing defects. Wear parts such as blades and belts are excluded but are available from stock."
+      },
+      {
+        "question": "How do I get spare parts and support?",
+        "answer": "Contact our after-sales team by phone, WhatsApp, or Zalo. Common spare parts are kept in stock and shipped quickly."
+      }
+    ]
+  }
+]

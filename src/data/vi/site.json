@@ -1,0 +1,55 @@
+{
+  "companyName": "NAM DU MACHINE",
+  "shortName": "Nam Du",
+  "tagline": "Nhà máy chế biến hạt điều trọn gói, từ hạt thô đến nhân đóng gói",
+  "description": "NAM DU MACHINE cung cấp trọn gói nhà máy chế biến hạt điều tự động công suất 10 - 100 tấn/ngày: sàng phân loại hạt thô, hấp, chẻ hạt, sấy khô, làm ẩm, bóc vỏ lụa, phân loại size nhân và đóng gói.",
+  "logo": {
+    "src": "/images/company-logo.png",
+    "alt": "Logo NAM DU MACHINE"
+  },
+  "logoLight": {
+    "src": "/images/company-logo.png",
+    "alt": "Logo NAM DU MACHINE"
+  },
+  "favicon": "/images/company-favicon.png",
+  "siteUrl": "https://www.example.com",
+  "contact": {
+    "phone": "+84 909 822 001",
+    "phoneHref": "tel:+84909822001",
+    "email": "namdumachine@gmail.com",
+    "whatsapp": "+84909822001",
+    "whatsappDisplay": "0084 909 822 001",
+    "zalo": "84909822001",
+    "address": "567/52 Lê Văn Khương, Phường Tân Thới Hiệp, Thành Phố Hồ Chí Minh, Việt Nam",
+    "workingHours": "Thứ 2 - Thứ 7, 7:30 - 17:30 (GMT+7)",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d887.2918886503821!2d106.64576251741586!3d10.891239083302185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174d70cdba929bd%3A0x5a3c599fb9b2cdf5!2zNTY3IEzDqiBWxINuIEtoxrDGoW5nLCBUw6JuIFRo4bubaSBIaeG7h3AsIEjhu5MgQ2jDrSBNaW5oIDAwNzAwLCBWaWV0bmFt!5e0!3m2!1sen!2sus!4v1791100345291!5m2!1sen!2sus",
+    "mapLink": "https://maps.app.goo.gl/FktfEodLgeE3MizB8"
+  },
+  "socials": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/"
+    }
+  ],
+  "seo": {
+    "titleTemplate": "%s | NAM DU MACHINE",
+    "defaultTitle": "NAM DU MACHINE - Nhà máy chế biến hạt điều trọn gói",
+    "keywords": [
+      "máy chế biến hạt điều",
+      "máy chẻ hạt điều",
+      "máy bóc lụa hạt điều",
+      "máy phân loại size hạt điều",
+      "thiết bị nhà máy điều",
+      "máy hạt điều Việt Nam"
+    ],
+    "ogImage": "https://res.cloudinary.com/whle9ogj/image/upload/v1791044976/namdu-1536x1536.jpg"
+  }
+}

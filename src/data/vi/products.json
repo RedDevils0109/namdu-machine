@@ -1,0 +1,581 @@
+[
+  {
+    "slug": "raw-nut-grader-nd-rg5",
+    "categorySlug": "raw-nut-grading",
+    "name": "Máy phân cỡ hạt điều thô",
+    "model": "",
+    "shortDescription": "Làm sạch và phân cỡ hạt điều thô thành 5 nhóm A+, A, B, C, D với độ chính xác đến 98%.",
+    "description": "Máy làm sạch và phân cỡ hạt điều thô theo đường kính 28, 26, 24, 22, 20 và 18 mm, chia thành các nhóm A+, A, B, C, D. Hạt đồng cỡ giúp máy tách vỏ giảm tỷ lệ vỡ, sót cắt và cắt lệch. Trống phân loại hình bát giác (8 cạnh) bằng thép MS dày 4–6 mm, chiều dài mỗi đoạn lưới thiết kế theo công suất. Hạt được cấp tự động qua phễu và gàu tải nhựa PE; biến tần điều chỉnh tốc độ trống và băng cấp liệu, cho độ chính xác phân cỡ lên đến 98%. Khung thép hộp vuông gia công CNC, motor Nhật/Đức, thiết bị điện Đài Loan/Nhật/Hàn, đạt chuẩn CE. Máy chạy độc lập hoặc nối với máy làm sạch, silo, máy hấp và hệ thống làm nguội thành một hệ thống tự động, tương thích cả máy tách vỏ dạng đứng và dạng ngang.",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791041960/raw-cashew-nut-sizing-machine.png",
+        "alt": "Máy phân cỡ hạt điều thô"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791041965/raw-grading-2.jpg",
+        "alt": "Máy phân cỡ hạt điều thô"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791041959/raw-grading-1.jpg",
+        "alt": "Máy phân cỡ hạt điều thô"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Công suất",
+        "value": "1.000 - 5.000 kg/giờ"
+      },
+      {
+        "label": "Cỡ phân loại",
+        "value": "A+, A, B, C, D (28 - 18 mm)"
+      },
+      {
+        "label": "Độ chính xác phân cỡ",
+        "value": "Đến 98%"
+      },
+      {
+        "label": "Điện năng",
+        "value": "1,5 - 5,5 kW, 380V / 3 pha / 50Hz"
+      },
+      {
+        "label": "Kích thước",
+        "value": "10 × 1 × 1,5 m - 15 × 1,5 × 2,5 m"
+      }
+    ],
+    "features": [
+      "Trống phân loại bát giác bằng thép MS dày 4–6 mm",
+      "Cấp liệu tự động bằng phễu và gàu tải nhựa PE",
+      "Biến tần điều chỉnh tốc độ trống và băng cấp liệu",
+      "Khung thép hộp gia công CNC, motor Nhật/Đức, đạt chuẩn CE",
+      "Kết nối được với silo, máy hấp và hệ thống làm nguội"
+    ],
+    "applications": [
+      "Đầu mọi dây chuyền chế biến điều",
+      "Dây chuyền dùng máy tách vỏ dạng đứng hoặc dạng ngang"
+    ],
+    "featured": false
+  },
+  {
+    "slug": "steam-cooker-nd-sc500",
+    "categorySlug": "steaming",
+    "name": "Nồi hấp tĩnh hạt điều thô",
+    "model": "",
+    "shortDescription": "Nồi hấp áp suất theo nguyên lý autoclave, hấp chín hạt điều thô đồng đều theo từng mẻ.",
+    "description": "Nồi hấp dùng hơi bão hòa có áp suất từ lò hơi để \"nấu chín\" hạt điều thô theo nguyên lý nồi hấp áp suất (autoclave). Hấp làm lớp nhân tách khỏi vỏ, giúp máy tách vỏ cắt dễ, ít vỡ và ít sót. Thân nồi bằng thép đúc chuyên dụng, 2 lớp có bảo ôn bông cách nhiệt, tùy chọn inox 304. Nồi trang bị đồng hồ nhiệt độ, van an toàn áp suất và bộ hẹn giờ; cấp liệu bằng phễu và gàu tải, xả liệu tự động. Nồi chạy đơn lẻ hoặc ghép nhiều nồi thành hệ thống hấp công suất lớn.",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042039/WhatsApp-Image-2024-03-25-at-15.23.10.webp",
+        "alt": "Nồi hấp tĩnh hạt điều"
+      }
+    ],
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/dog.mp4",
+    "specs": [
+      {
+        "label": "Công suất",
+        "value": "200 - 1.000 kg/mẻ"
+      },
+      {
+        "label": "Thời gian mỗi mẻ",
+        "value": "10 - 20 phút"
+      },
+      {
+        "label": "Lượng hơi cần",
+        "value": "50 - 200 kg hơi/giờ"
+      },
+      {
+        "label": "Điện năng",
+        "value": "0,5 - 5,5 kW, 380V / 3 pha / 50Hz"
+      },
+      {
+        "label": "Vật liệu",
+        "value": "Thép đúc chuyên dụng 2 lớp bảo ôn, tùy chọn inox 304"
+      }
+    ],
+    "features": [
+      "Hấp theo nguyên lý autoclave, hạt chín đồng đều",
+      "Đồng hồ nhiệt độ, van an toàn áp suất và bộ hẹn giờ",
+      "Cấp liệu bằng phễu và gàu tải, xả liệu tự động",
+      "Thân nồi 2 lớp bảo ôn bông cách nhiệt",
+      "Ghép nhiều nồi thành hệ thống hấp công suất lớn"
+    ],
+    "applications": [
+      "Nhà máy nhỏ và vừa",
+      "Dây chuyền chế biến theo mẻ"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "rotary-steamer-nd-rs800",
+    "categorySlug": "steaming",
+    "name": "Máy hấp hạt điều dạng thùng quay",
+    "model": "",
+    "shortDescription": "Thùng hấp quay đảo trộn hạt điều thô liên tục trong hơi nước để chín đồng đều hơn.",
+    "description": "Máy hấp thùng quay đảo trộn hạt điều thô liên tục trong hơi bão hòa có áp suất từ lò hơi, để mọi hạt nhận nhiệt như nhau và chín đồng đều hơn so với hấp tĩnh. Hạt chín đều giúp lớp nhân tách khỏi vỏ, máy tách vỏ cắt dễ, ít vỡ và ít sót. Thân máy bằng thép đúc chuyên dụng, 2 lớp có bảo ôn bông cách nhiệt, tùy chọn inox 304. Máy trang bị đồng hồ nhiệt độ, van an toàn áp suất và bộ hẹn giờ; cấp liệu bằng phễu và gàu tải, xả liệu tự động. Máy chạy đơn lẻ hoặc ghép nhiều máy thành hệ thống hấp công suất lớn.",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042042/hap-dieu.jpg",
+        "alt": "Máy hấp hạt điều dạng thùng quay"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042042/steamming-machine-model.jpg",
+        "alt": "Thùng quay của máy hấp hạt điều"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Công suất",
+        "value": "200 - 1.000 kg/mẻ"
+      },
+      {
+        "label": "Thời gian mỗi mẻ",
+        "value": "10 - 20 phút"
+      },
+      {
+        "label": "Lượng hơi cần",
+        "value": "50 - 200 kg hơi/giờ"
+      },
+      {
+        "label": "Điện năng",
+        "value": "0,5 - 5,5 kW, 380V / 3 pha / 50Hz"
+      },
+      {
+        "label": "Vật liệu",
+        "value": "Thép đúc chuyên dụng 2 lớp bảo ôn, tùy chọn inox 304"
+      }
+    ],
+    "features": [
+      "Thùng quay đảo trộn liên tục, hạt chín đồng đều",
+      "Đồng hồ nhiệt độ, van an toàn áp suất và bộ hẹn giờ",
+      "Cấp liệu bằng phễu và gàu tải, xả liệu tự động",
+      "Thân máy 2 lớp bảo ôn bông cách nhiệt"
+    ],
+    "applications": [
+      "Nhà máy vừa và lớn",
+      "Dây chuyền chế biến tự động"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "auto-sheller-nd-as12",
+    "categorySlug": "shelling",
+    "name": "Máy tách vỏ hạt điều tự động dạng ngang",
+    "model": "",
+    "shortDescription": "Máy tách vỏ dạng ngang 8–15 lưỡi, tỷ lệ vỡ dưới 5% và tỷ lệ tách trên 95%.",
+    "description": "Máy cấp liệu và cắt bằng cơ cấu truyền động ngang (xích tải và khuôn cấp liệu), là loại máy tách vỏ phổ biến nhất trên thị trường. Tùy số lưỡi từ 8 đến 15, máy đạt 180–600 kg/giờ với tỷ lệ vỡ dưới 5% và tỷ lệ tách trên 95% (trên 99% ở bản 15 lưỡi). Khung, khuôn cấp liệu, thanh dẫn và giá đỡ dao được gia công CNC và hàn robot. Khuôn cấp liệu bằng nhôm hoặc nhựa PA, giá đỡ dao bằng thép đúc tôi nhiệt, lưỡi cắt và lưỡi tách bằng thép hợp kim đặc biệt. Máy dùng motor giảm tốc Bonfiglioli (Ý), vòng bi NTN/ASAHI (Nhật), biến tần Siemens/Mitsubishi, đạt chuẩn CE, và dễ nối vào hệ thống phân tách tự động.",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042087/AUTOMATIC-CASHEW-SHELLING-LINE-1.jpg",
+        "alt": "Máy tách vỏ hạt điều tự động dạng ngang"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042079/Mekong-shelling-machines.jpg",
+        "alt": "Lưỡi cắt của máy tách vỏ dạng ngang"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042080/peeling-3.jpg",
+        "alt": "Máy tách vỏ hạt điều tự động dạng ngang"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042083/peeling-5.jpg",
+        "alt": "Máy tách vỏ hạt điều tự động dạng ngang"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042085/peeling-4.jpg",
+        "alt": "Máy tách vỏ hạt điều tự động dạng ngang"
+      }
+    ],
+    "videoUrl": "https://res.cloudinary.com/whle9ogj/video/upload/v1790504201/shelling-machine.mp4",
+    "specs": [
+      {
+        "label": "Công suất",
+        "value": "180 - 600 kg/giờ"
+      },
+      {
+        "label": "Số đầu cắt (lưỡi)",
+        "value": "8 - 15"
+      },
+      {
+        "label": "Tỷ lệ vỡ",
+        "value": "< 5%"
+      },
+      {
+        "label": "Tỷ lệ tách",
+        "value": "> 95% - > 99%"
+      },
+      {
+        "label": "Điện năng",
+        "value": "0,75 kW, 380V / 50Hz"
+      },
+      {
+        "label": "Kích thước",
+        "value": "1300 × 800 × 1700 - 1300 × 1300 × 1700 mm"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "500 - 800 kg"
+      }
+    ],
+    "features": [
+      "Khung, khuôn và giá đỡ dao gia công CNC, hàn robot",
+      "Lưỡi cắt và lưỡi tách bằng thép hợp kim đặc biệt",
+      "Motor giảm tốc Bonfiglioli (Ý), vòng bi NTN/ASAHI (Nhật)",
+      "Biến tần Siemens/Mitsubishi, đạt chuẩn CE",
+      "Dễ nối vào hệ thống phân tách tự động"
+    ],
+    "applications": [
+      "Nhà máy vừa và lớn",
+      "Dây chuyền tách vỏ và phân tách tự động"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "tray-dryer-nd-td48",
+    "categorySlug": "drying",
+    "name": "Máy sấy nhân điều dạng buồng (Borma)",
+    "model": "",
+    "shortDescription": "Buồng sấy khí nóng tuần hoàn đảo chiều, sấy 1.000–5.800 kg nhân mỗi mẻ.",
+    "description": "Máy sấy nhân còn vỏ lụa để vỏ lụa khô, giòn và dễ bóc ở công đoạn sau. Khung, xe đẩy và khay bằng thép mạ kẽm; vách tôn mạ kẽm có bảo ôn dày 50 mm, tỷ trọng 80 kg/m³. Hai bộ trao đổi nhiệt (calorifier) đặt đối xứng hai bên cùng 4 quạt tạo tuần hoàn khí nóng đảo chiều luân phiên, giúp tiết kiệm nhiệt và rút ngắn thời gian sấy. Thời gian, nhiệt độ và áp suất cài đặt dễ dàng. Motor và thiết bị điện nhập từ châu Âu hoặc Nhật.",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042259/drying-4.jpg",
+        "alt": "Máy sấy nhân điều dạng buồng"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042261/dyring2.jpg",
+        "alt": "Máy sấy nhân điều dạng buồng"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042267/dyring-3.jpg",
+        "alt": "Máy sấy nhân điều dạng buồng"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042161/CASHEW-DRYING-MACHINE-3-Copy.jpg",
+        "alt": "Máy sấy nhân điều dạng buồng"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042161/CASHEW-DRYING-MACHINE-3-Copy.jpg",
+        "alt": "Máy sấy nhân điều dạng buồng"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042256/CASHEW-DRYING-MACHINE-2-Copy.jpg",
+        "alt": "Máy sấy nhân điều dạng buồng"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Công suất",
+        "value": "1.000 - 5.800 kg/mẻ"
+      },
+      {
+        "label": "Thời gian sấy",
+        "value": "8 - 14 giờ"
+      },
+      {
+        "label": "Điện năng",
+        "value": "1,5 - 3 kW, 380V / 50Hz"
+      },
+      {
+        "label": "Bảo ôn",
+        "value": "Dày 50 mm, tỷ trọng 80 kg/m³"
+      },
+      {
+        "label": "Kích thước",
+        "value": "3.800 × 2.400 × 2.200 - 8.200 × 3.800 × 2.200 mm"
+      }
+    ],
+    "features": [
+      "2 bộ trao đổi nhiệt đặt đối xứng hai bên",
+      "4 quạt tuần hoàn khí nóng đảo chiều luân phiên",
+      "Khung, xe đẩy và khay bằng thép mạ kẽm",
+      "Dễ cài đặt thời gian, nhiệt độ và áp suất",
+      "Motor và thiết bị điện nhập từ châu Âu hoặc Nhật"
+    ],
+    "applications": [
+      "Sấy nhân trước khi bóc vỏ lụa",
+      "Nhà máy vừa và lớn"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "kernel-humidifier-nd-hm500",
+    "categorySlug": "humidifying",
+    "name": "Máy làm ẩm nhân điều",
+    "model": "",
+    "shortDescription": "Làm ẩm nhân sau sấy để vỏ lụa dễ bóc và nhân ít vỡ.",
+    "description": "Máy làm ẩm nhân điều sau khi sấy để vỏ lụa dễ bóc và nhân ít vỡ ở công đoạn bóc vỏ lụa. Máy là một phần của hệ thống sấy và làm ẩm, đặt giữa máy sấy nhân và máy bóc vỏ lụa. Công suất được thiết kế theo quy mô nhà máy; vui lòng liên hệ để nhận cấu hình và báo giá phù hợp.",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042156/humi-3.jpg",
+        "alt": "Máy làm ẩm nhân điều"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042158/humi-4.jpg",
+        "alt": "Bộ điều khiển của máy làm ẩm nhân điều"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042163/humi-5.jpg",
+        "alt": "Bộ điều khiển của máy làm ẩm nhân điều"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Công suất",
+        "value": "Thiết kế theo quy mô nhà máy, liên hệ báo giá"
+      },
+      {
+        "label": "Vị trí trong dây chuyền",
+        "value": "Giữa công đoạn sấy và bóc vỏ lụa"
+      },
+      {
+        "label": "Vận hành",
+        "value": "Thuộc hệ thống sấy và làm ẩm"
+      }
+    ],
+    "features": [
+      "Giúp vỏ lụa dễ bóc",
+      "Giảm tỷ lệ vỡ nhân khi bóc vỏ lụa",
+      "Kết nối với hệ thống sấy"
+    ],
+    "applications": [
+      "Giữa công đoạn sấy và bóc vỏ lụa",
+      "Sản xuất nhân trắng nguyên hạt"
+    ],
+    "featured": false
+  },
+  {
+    "slug": "air-peeler-nd-ap600",
+    "categorySlug": "peeling",
+    "name": "Máy bóc vỏ lụa hạt điều tự động",
+    "model": "",
+    "shortDescription": "Bóc vỏ lụa bằng trống quay và khí nén, 80–90% nhân trắng nguyên sau 1 lần qua máy.",
+    "description": "Nhân đã sấy đi vào trống quay có trục chổi hoặc trục lò xo; ma sát giữa trống và trục làm nứt vỏ lụa, sau đó khí nén áp suất cao thổi bay vỏ lụa. Trống và trục lò xo chỉnh được góc nên không làm xước nhân, hệ thống thổi khí thiết kế riêng để tiết kiệm khí nén. Mỗi máy có hệ thống hút bụi và trống phân cỡ (W, LP, WS), tự động hoàn toàn từ phễu, gàu tải, trống bóc, tách khí động học đến trống phân cỡ. Máy cho tỷ lệ bóc sạch 80–90% sau 1 lần qua máy, tỷ lệ vỡ dưới 8%, không làm hỏng nhân và không nhiễm dầu. Khung inox, motor và thiết bị điện Nhật, Hàn, Đài Loan (Schneider). Máy chạy độc lập cho xưởng 1–10 tấn/ngày, hoặc ghép với máy bắn màu và máy phân loại thành hệ thống cho nhà máy 20–100 tấn/ngày.",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042210/peeling-23.jpg",
+        "alt": "Máy bóc vỏ lụa hạt điều tự động"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042205/AUTOMATIC-CASHEW-PEELING-MACHINE-2-Copy.jpg",
+        "alt": "Máy bóc vỏ lụa hạt điều tự động"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042208/cashew-peeling-machine-1_472-768x576.jpg",
+        "alt": "Máy bóc vỏ lụa hạt điều tự động"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Công suất",
+        "value": "150 - 500 kg/giờ"
+      },
+      {
+        "label": "Tỷ lệ bóc sạch",
+        "value": "80 - 90%"
+      },
+      {
+        "label": "Tỷ lệ vỡ",
+        "value": "< 8%"
+      },
+      {
+        "label": "Khí nén tiêu thụ",
+        "value": "30 - 100 HP (22 - 75 kW), 7 bar"
+      },
+      {
+        "label": "Điện năng máy",
+        "value": "3 kW, 380V / 50Hz"
+      },
+      {
+        "label": "Kích thước",
+        "value": "10.000 × 1.200 × 2.500 mm"
+      }
+    ],
+    "features": [
+      "Trống quay với trục chổi hoặc trục lò xo chỉnh được góc",
+      "Khí nén áp suất cao thổi bay vỏ lụa, tiết kiệm khí",
+      "Hệ thống hút bụi và trống phân cỡ W, LP, WS",
+      "Không làm hỏng nhân, không nhiễm dầu",
+      "Khung inox, thiết bị điện Schneider"
+    ],
+    "applications": [
+      "Xưởng 1–10 tấn/ngày",
+      "Hệ thống bóc lụa, bắn màu và phân loại cho nhà máy 20–100 tấn/ngày"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "screw-air-compressor-nd-ac",
+    "categorySlug": "air-compressor",
+    "name": "Hệ thống máy nén khí trục vít công nghiệp",
+    "model": "",
+    "shortDescription": "Hệ thống máy nén khí trục vít công suất lớn, cung cấp khí nén sạch khô cho dây chuyền bóc vỏ lụa hạt điều.",
+    "description": "Được thiết kế chuyên dụng cho các nhà máy chế biến hạt điều tự động, hệ thống máy nén khí trục vít công nghiệp cung cấp nguồn khí nén áp suất cao, được làm sạch và tách dầu hiệu quả để vận hành liên tục dây chuyền bóc vỏ lụa. Hệ thống đồng bộ gồm cụm đầu nén trục vít đôi hiệu suất cao (công nghệ Đức/Châu Âu), động cơ điện Siemens đạt chuẩn IP54/IP55 cách điện cấp F, bình tách dầu khí dung tích lớn (giữ hàm lượng dầu trong khí dưới 2-3 PPM), hệ thống làm mát dầu độc lập và máy sấy khí nén. Máy hoạt động ổn định 24/7 trong môi trường nhiệt độ cao, đáp ứng công suất nhà máy từ 10 đến 100 tấn/ngày.",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042353/compressor-2.jpg",
+        "alt": "Hệ thống máy nén khí trục vít công nghiệp chế biến hạt điều"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042292/cashew-air-compressor-system.jpg",
+        "alt": "Đầu nén trục vít và bảng điều khiển máy nén khí"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Lưu lượng khí nén",
+        "value": "6,6 - 27,8 m³/phút (233 - 981 CFM)"
+      },
+      {
+        "label": "Áp suất làm việc",
+        "value": "7 - 10 bar (100 PSIG)"
+      },
+      {
+        "label": "Công suất động cơ",
+        "value": "37 - 160 kW (50 - 200 HP), 380V / 3 pha / 50Hz"
+      },
+      {
+        "label": "Hàm lượng dầu trong khí",
+        "value": "< 2 - 3 PPM"
+      },
+      {
+        "label": "Độ ồn",
+        "value": "69 - 75 dB(A)"
+      },
+      {
+        "label": "Đường kính ống ra",
+        "value": "1.25\" - DN65"
+      },
+      {
+        "label": "Kích thước (D×R×C)",
+        "value": "1.350 × 1.000 × 1.640 - 2.790 × 1.550 × 2.000 mm"
+      }
+    ],
+    "features": [
+      "Đầu nén trục vít đôi nhập khẩu theo tiêu chuẩn công nghệ Đức",
+      "Động cơ Siemens hiệu suất cao, bảo vệ IP54/IP55, vòng bạc SKF",
+      "Bình tách dầu khí dung tích lớn, hàm lượng dầu dưới 2-3 PPM",
+      "Bộ làm mát dầu độc lập kèm quạt hút hướng trục giảm tiếng ồn",
+      "Cấu trúc nạp khí thẳng đứng giảm thiểu tổn thất áp suất đầu vào",
+      "Hệ thống bảo vệ an toàn toàn diện: quá tải, quá áp và quá nhiệt"
+    ],
+    "applications": [
+      "Cấp khí nén cho máy bóc vỏ lụa hạt điều tự động",
+      "Hệ thống điều khiển khí nén cho nhà máy công suất 10 - 100 tấn/ngày"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "kernel-grader-nd-kg6",
+    "categorySlug": "kernel-grading",
+    "name": "Máy phân loại nhân điều nguyên",
+    "model": "",
+    "shortDescription": "Phân loại nhân nguyên theo khe hở hai trục con lăn thành các cỡ W240, W320, W450, WS.",
+    "description": "Máy phân loại nhân theo khe hở giữa hai trục con lăn: nhân lọt qua theo kích thước và đường kính, chia thành các cỡ W240, W320, W450 và WS với độ chính xác khoảng 90%. Máy dùng kết hợp với máy bắn màu và công nhân để đạt đúng cỡ theo yêu cầu thị trường xuất khẩu. Khung inox 304 (hoặc thép sơn với trục inox), vòng bi, motor và thiết bị điện đạt chuẩn CE. Tủ điện trung tâm có 2 chế độ tay và tự động; chỉnh khe trục để đổi cỡ. Bộ máy gồm phễu, gàu tải và máy chính.",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042402/grading-4.jpg",
+        "alt": "Máy phân loại nhân điều nguyên"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042400/grading-2.jpg",
+        "alt": "Máy phân loại nhân điều nguyên"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042396/color-sorting.jpg",
+        "alt": "Máy phân loại mau"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Công suất",
+        "value": "150 - 600 kg/giờ"
+      },
+      {
+        "label": "Cỡ phân loại",
+        "value": "W240, W320, W450, WS"
+      },
+      {
+        "label": "Độ chính xác",
+        "value": "Khoảng 90%"
+      },
+      {
+        "label": "Điện năng",
+        "value": "0,75 - 2,2 kW, 220V / 50Hz"
+      },
+      {
+        "label": "Kích thước",
+        "value": "2500 × 1100 × 1700 - 2800 × 1200 × 1700 mm"
+      }
+    ],
+    "features": [
+      "Phân loại theo khe hở hai trục con lăn",
+      "Chỉnh khe trục để đổi cỡ",
+      "Tủ điện trung tâm, 2 chế độ tay và tự động",
+      "Khung inox 304, vòng bi và motor đạt chuẩn CE",
+      "Đồng bộ phễu, gàu tải và máy chính"
+    ],
+    "applications": [
+      "Phân loại cỡ nhân xuất khẩu",
+      "Kết hợp với máy bắn màu"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "vacuum-packer-nd-vp2",
+    "categorySlug": "packing",
+    "name": "Dây chuyền đóng gói chân không hạt điều",
+    "model": "",
+    "shortDescription": "Kiểm tra lần cuối và đóng túi chân không 10–35 kg, nạp CO₂, N₂ hoặc hỗn hợp khí.",
+    "description": "Dây chuyền thực hiện kiểm tra lần cuối (sàng rung, hút bụi, X-ray, dò kim loại) rồi đóng nhân điều vào túi chân không 10–35 kg (25 LB, 50 LB). Túi được hút chân không hoặc nạp khí CO₂, N₂ hay hỗn hợp khí (MAP) để giữ chất lượng khi lưu kho và vận chuyển xuất khẩu. Toàn line bằng SUS304, gàu tải nhựa PE đạt chuẩn HACCP, bơm chân không Busch (Đức) hoặc hàng Nhật. Line có hai chế độ tay và tự động, dùng cho nhà máy 10–100 tấn/ngày.",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042434/package-3.jpg",
+        "alt": "Dây chuyền đóng gói chân không hạt điều"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042431/package-2.jpg",
+        "alt": "Dây chuyền đóng gói chân không hạt điều"
+      },
+      {
+        "src": "https://res.cloudinary.com/whle9ogj/image/upload/v1791042427/cashew-packing-machine-01_604-1-768x576.jpg",
+        "alt": "Dây chuyền đóng gói chân không hạt điều"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Công suất",
+        "value": "40 - 120 bao/giờ"
+      },
+      {
+        "label": "Quy cách túi",
+        "value": "10 - 35 kg (25 LB, 50 LB)"
+      },
+      {
+        "label": "Khí bảo quản",
+        "value": "Hút chân không hoặc nạp CO₂, N₂, hỗn hợp khí (MAP)"
+      },
+      {
+        "label": "Điện năng",
+        "value": "5,5 - 7,5 kW, 220V / 50Hz"
+      },
+      {
+        "label": "Vật liệu",
+        "value": "Inox SUS304 toàn line"
+      },
+      {
+        "label": "Kích thước",
+        "value": "10.000 × 1.200 × 1.700 mm"
+      }
+    ],
+    "features": [
+      "Sàng rung, hút bụi, X-ray và dò kim loại trước khi đóng gói",
+      "Bơm chân không Busch (Đức) hoặc hàng Nhật",
+      "Gàu tải nhựa PE đạt chuẩn HACCP",
+      "Hai chế độ tay và tự động"
+    ],
+    "applications": [
+      "Nhà máy 10–100 tấn/ngày",
+      "Đóng gói nhân điều xuất khẩu"
+    ],
+    "featured": false
+  }
+]

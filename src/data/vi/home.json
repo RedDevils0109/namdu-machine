@@ -1,0 +1,123 @@
+{
+  "hero": {
+    "eyebrow": "Nhà cung cấp máy chế biến hạt điều từ Việt Nam",
+    "title": "Nhà máy chế biến hạt điều tự động trọn gói, công suất 10 - 100 tấn/ngày",
+    "subtitle": "Chúng tôi cung cấp nhà máy chế biến hạt điều tự động theo hình thức trọn gói (turnkey), đầy đủ các khâu từ sàng phân loại hạt thô, hấp, chẻ hạt đến bóc vỏ lụa, phân loại size nhân và đóng gói. Chúng tôi thiết kế mặt bằng, chế tạo máy, lắp đặt và chạy thử toàn bộ nhà máy.",
+    "image": {
+      "src": "/images/home-hero.png",
+      "alt": "Dây chuyền chế biến hạt điều trong nhà máy"
+    },
+    "primaryCta": { "label": "Khám phá máy móc", "href": "/products" },
+    "secondaryCta": { "label": "Trao đổi với kỹ sư", "href": "/contact" }
+  },
+  "stats": [
+    { "value": "10–100", "label": "Tấn/ngày mỗi nhà máy" },
+    { "value": "9", "label": "Công đoạn chế biến" },
+    { "value": "20+", "label": "Quốc gia" },
+    { "value": "24/7", "label": "Hỗ trợ kỹ thuật" }
+  ],
+  "whyChooseUs": {
+    "title": "Vì sao các nhà máy chọn NAM DU",
+    "subtitle": "Mỗi chiếc máy được chế tạo cho thực tế chế biến hạt điều: vỏ cứng, dầu vỏ điều ăn mòn, bụi, nhiệt và ca làm việc dài.",
+    "items": [
+      {
+        "icon": "gear",
+        "title": "Dự án trọn gói",
+        "description": "Một hợp đồng từ thiết kế mặt bằng, cung cấp máy đến lắp đặt và chạy thử, công suất từ 10 đến 100 tấn/ngày."
+      },
+      {
+        "icon": "shield",
+        "title": "Bền bỉ lâu dài",
+        "description": "Bộ phận tiếp xúc bằng inox đạt chuẩn thực phẩm và khung chịu lực cho nhiều năm vận hành liên tục."
+      },
+      {
+        "icon": "wrench",
+        "title": "Lắp đặt và đào tạo",
+        "description": "Kỹ sư lắp đặt tại chỗ và đào tạo công nhân đến khi dây chuyền vận hành trơn tru."
+      },
+      {
+        "icon": "truck",
+        "title": "Phụ tùng sẵn có",
+        "description": "Phụ tùng hao mòn thông dụng luôn có sẵn trong kho và giao nhanh để giảm thời gian dừng máy."
+      },
+      {
+        "icon": "globe",
+        "title": "Kinh nghiệm xuất khẩu",
+        "description": "Nhà máy đang vận hành tại châu Phi, Nam Á và Đông Nam Á, kèm đầy đủ hồ sơ xuất khẩu."
+      },
+      {
+        "icon": "headset",
+        "title": "Hỗ trợ nhanh chóng",
+        "description": "Hỗ trợ từ xa qua điện thoại, WhatsApp hoặc Zalo, kỹ sư sẵn sàng đến tận nơi khi cần."
+      }
+    ]
+  },
+  "process": {
+    "title": "Một đối tác cho cả dây chuyền chế biến",
+    "subtitle": "Dây chuyền tự động đầy đủ cả chín công đoạn, với các máy được thiết kế để phối hợp nhịp nhàng.",
+    "steps": [
+      { "step": 1, "title": "Sàng phân loại hạt thô", "description": "Chia hạt thô theo size để hấp và chẻ đều.", "categorySlug": "raw-nut-grading" },
+      { "step": 2, "title": "Hấp", "description": "Làm giòn vỏ bằng nồi hấp tĩnh hoặc máy hấp quay.", "categorySlug": "steaming" },
+      { "step": 3, "title": "Chẻ hạt", "description": "Chẻ từng hạt để lấy nhân, ít vỡ nhất.", "categorySlug": "shelling" },
+      { "step": 4, "title": "Sấy khô", "description": "Giảm độ ẩm nhân để vỏ lụa dễ bong.", "categorySlug": "drying" },
+      { "step": 5, "title": "Làm ẩm", "description": "Làm dẻo nhân để không gãy vỡ khi bóc lụa.", "categorySlug": "humidifying" },
+      { "step": 6, "title": "Bóc vỏ lụa", "description": "Bóc lớp vỏ lụa nhẹ nhàng và đồng đều.", "categorySlug": "peeling" },
+      { "step": 7, "title": "Hệ thống nén khí", "description": "Cấp khí nén áp suất cao, sấy khô cho máy bóc lụa.", "categorySlug": "air-compressor" },
+      { "step": 8, "title": "Phân loại size nhân", "description": "Phân loại nhân theo size đúng cấp xuất khẩu.", "categorySlug": "kernel-grading" },
+      { "step": 9, "title": "Đóng gói", "description": "Đóng gói hút chân không để bảo quản lâu.", "categorySlug": "packing" }
+    ]
+  },
+  "markets": {
+    "title": "Giúp các nước trồng điều chế biến ngay tại chỗ",
+    "subtitle": "Thay vì xuất khẩu hạt điều thô, các nước trồng điều có thể chế biến sâu tại chỗ, giữ lại giá trị, việc làm và tay nghề trong nước. Nhà máy của chúng tôi giúp thực hiện bước chuyển đổi đó.",
+    "regions": [
+      {
+        "name": "Châu Phi",
+        "description": "Thị trường tập trung của chúng tôi. Chúng tôi cung cấp công nghệ và máy móc giúp các nhà sản xuất châu Phi chuyển từ xuất khẩu thô sang chế biến sâu ngay trong nước.",
+        "countries": ["Bờ Biển Ngà", "Nigeria", "Ghana", "Tanzania", "và nhiều nước khác"],
+        "highlight": true
+      },
+      {
+        "name": "Nam Á",
+        "description": "Nhà máy và máy móc cho các trung tâm chế biến lâu năm muốn tăng công suất và mức độ tự động hóa.",
+        "countries": ["Ấn Độ", "Pakistan"]
+      },
+      {
+        "name": "Đông Nam Á",
+        "description": "Nhà máy trọn gói và nâng cấp từng công đoạn cho các cơ sở chế biến trong khu vực.",
+        "countries": []
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Dây chuyền chẻ hạt giúp sản lượng mỗi ngày tăng gấp đôi và tỷ lệ nhân nguyên tốt hơn máy cũ. Việc lắp đặt chưa đến một tuần.",
+      "author": "John Sample",
+      "role": "Quản lý nhà máy",
+      "company": "Sample Cashew Co.",
+      "country": "Việt Nam",
+      "avatar": "https://picsum.photos/seed/namdu-avatar-1/200/200"
+    },
+    {
+      "quote": "Kỹ sư ở lại đến khi công nhân của chúng tôi vận hành thành thạo. Phụ tùng giao rất nhanh, điều rất quan trọng trong mùa vụ.",
+      "author": "Jane Citizen",
+      "role": "Giám đốc vận hành",
+      "company": "Example Agro Processing",
+      "country": "Bờ Biển Ngà",
+      "avatar": "https://picsum.photos/seed/namdu-avatar-2/200/200"
+    },
+    {
+      "quote": "Chúng tôi mua trọn dây chuyền từ sàng phân loại hạt thô đến đóng gói. Chỉ một nhà cung cấp giúp việc lên kế hoạch và bảo trì đơn giản hơn nhiều.",
+      "author": "Alex Example",
+      "role": "Chủ doanh nghiệp",
+      "company": "Demo Nuts Ltd.",
+      "country": "Ấn Độ",
+      "avatar": "https://picsum.photos/seed/namdu-avatar-3/200/200"
+    }
+  ],
+  "cta": {
+    "title": "Bạn đang lên kế hoạch dây chuyền mới hoặc nâng cấp nhà máy?",
+    "subtitle": "Cho chúng tôi biết công suất mục tiêu và nguyên liệu. Chúng tôi sẽ đề xuất máy phù hợp và gửi báo giá.",
+    "buttonLabel": "Yêu cầu báo giá"
+  }
+}

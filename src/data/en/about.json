@@ -1,0 +1,100 @@
+{
+  "hero": {
+    "title": "About NAM DU MACHINE",
+    "subtitle": "A Vietnamese supplier of turnkey cashew processing plants, built on years of working side by side with cashew factories.",
+    "image": {
+      "src": "https://picsum.photos/seed/namdu-about-hero/1600/900",
+      "alt": "NAM DU MACHINE workshop"
+    }
+  },
+  "story": {
+    "title": "Our story",
+    "paragraphs": [
+      "NAM DU MACHINE was built by a team that spent years building and repairing cashew machines for local factories. Listening to operators every day taught us exactly where machines fail and what factories really need.",
+      "Today we specialise in turnkey projects: fully automatic cashew processing plants with a capacity of 10 to 100 tonnes a day. Each plant covers every stage, from raw nut grading, steaming, and shelling to drying, humidifying, peeling, kernel grading, and packing, and we handle the layout, machines, installation, and commissioning.",
+      "Africa is our main market. We supply technology and machines to countries such as Côte d'Ivoire, Nigeria, Ghana, and Tanzania, helping them move from exporting raw nuts to processing them locally, so more of the value, jobs, and skills stay in the country.",
+      "We have since expanded into South Asia, including India and Pakistan, and across Southeast Asia."
+    ],
+    "image": {
+      "src": "/images/about-story.jpg",
+      "alt": "Engineers assembling a cashew machine"
+    }
+  },
+  "mission": "Help cashew-growing countries turn raw nuts into finished kernels at home, with reliable turnkey plants and long-term support.",
+  "vision": "Be the trusted turnkey partner for cashew processing across Africa and Asia.",
+  "values": [
+    {
+      "icon": "award",
+      "title": "Quality first",
+      "description": "Every machine is tested with real raw cashew before it leaves our workshop."
+    },
+    {
+      "icon": "users",
+      "title": "Partnership",
+      "description": "We stay with customers after delivery, from training to spare parts."
+    },
+    {
+      "icon": "leaf",
+      "title": "Efficiency",
+      "description": "Lower energy use and less waste in every design we ship."
+    },
+    {
+      "icon": "chart",
+      "title": "Continuous improvement",
+      "description": "Feedback from factories goes straight into our next machine."
+    }
+  ],
+  "milestones": [
+    {
+      "year": "2008",
+      "title": "Company Foundation",
+      "description": "Started building, repairing, and upgrading cashew machines for local factories."
+    },
+    {
+      "year": "2012",
+      "title": "First automatic shelling machine",
+      "description": "Launched our own automatic cashew shelling machine."
+    },
+    {
+      "year": "2016",
+      "title": "First turnkey plant",
+      "description": "Delivered a complete automatic plant covering every stage from raw nut grading to packing."
+    },
+    {
+      "year": "2019",
+      "title": "First plant in Africa",
+      "description": "Installed a turnkey plant in West Africa, helping a raw nut exporter start processing locally."
+    },
+    {
+      "year": "2024",
+      "title": "Expansion into Asia",
+      "description": "Extended our turnkey projects to South Asia, including India and Pakistan, and Southeast Asia."
+    }
+  ],
+  "factoryVideos": [
+    {
+      "id": "factory-tour"
+    },
+    {
+      "id": "full-line-demo"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "ISO 9001:2015",
+      "issuer": "Quality management",
+      "image": {
+        "src": "/images/iso-9001.jpg",
+        "alt": "ISO 9001 certificate"
+      }
+    },
+    {
+      "name": "CE Marking",
+      "issuer": "European conformity",
+      "image": {
+        "src": "/images/ce-cert.jpg",
+        "alt": "CE certificate"
+      }
+    }
+  ]
+}

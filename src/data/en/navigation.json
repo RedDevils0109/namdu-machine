@@ -1,0 +1,35 @@
+{
+  "header": [
+    { "label": "Home", "href": "/" },
+    { "label": "About Us", "href": "/about" },
+    { "label": "Products", "href": "/products" },
+    { "label": "Videos", "href": "/videos" },
+    { "label": "FAQ", "href": "/faq" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "footer": [
+    {
+      "title": "Company",
+      "links": [
+        { "label": "About Us", "href": "/about" },
+        { "label": "Videos", "href": "/videos" },
+        { "label": "FAQ", "href": "/faq" },
+        { "label": "Contact", "href": "/contact" }
+      ]
+    },
+    {
+      "title": "Machines",
+      "links": [
+        { "label": "Raw Nut Grading", "href": "/products/raw-nut-grading" },
+        { "label": "Steaming", "href": "/products/steaming" },
+        { "label": "Shelling", "href": "/products/shelling" },
+        { "label": "Drying", "href": "/products/drying" },
+        { "label": "Humidifying", "href": "/products/humidifying" },
+        { "label": "Peeling", "href": "/products/peeling" },
+        { "label": "Air Compressors", "href": "/products/air-compressor" },
+        { "label": "Kernel Grading", "href": "/products/kernel-grading" },
+        { "label": "Packing", "href": "/products/packing" }
+      ]
+    }
+  ]
+}

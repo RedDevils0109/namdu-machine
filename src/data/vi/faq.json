@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Máy móc và công suất",
+    "items": [
+      {
+        "question": "Làm sao để chọn đúng máy cho nhà máy của tôi?",
+        "answer": "Hãy cho chúng tôi biết công suất mục tiêu (kg/giờ hoặc tấn/ngày), xuất xứ và kích cỡ hạt điều thô, cùng diện tích và nguồn điện hiện có. Kỹ sư sẽ đề xuất bố trí dây chuyền và danh sách máy."
+      },
+      {
+        "question": "Máy có xử lý được hạt điều thô từ các nước khác nhau không?",
+        "answer": "Có. Dao, sàng và các thông số đều điều chỉnh được theo kích cỡ hạt. Chúng tôi tinh chỉnh từng máy theo nguyên liệu bạn sẽ chế biến."
+      },
+      {
+        "question": "Công ty có cung cấp dây chuyền trọn gói không?",
+        "answer": "Có. Chúng tôi cung cấp mọi công đoạn từ sàng phân loại hạt thô, hấp, chẻ hạt đến sấy khô, làm ẩm, bóc vỏ lụa, phân loại size nhân và đóng gói, đồng thời cung cấp máy lẻ để nâng cấp dây chuyền hiện có."
+      }
+    ]
+  },
+  {
+    "title": "Đặt hàng và vận chuyển",
+    "items": [
+      {
+        "question": "Làm sao để nhận báo giá?",
+        "answer": "Bấm nút Yêu cầu báo giá trên trang máy bất kỳ hoặc liên hệ qua điện thoại, WhatsApp, Zalo hay email. Chúng tôi sẽ gửi báo giá theo yêu cầu của bạn."
+      },
+      {
+        "question": "Thời gian giao hàng thường là bao lâu?",
+        "answer": "Máy tiêu chuẩn thường giao trong 20 đến 30 ngày sau khi xác nhận đơn hàng. Dây chuyền trọn gói cần thêm thời gian tùy cấu hình."
+      },
+      {
+        "question": "Công ty có giao hàng quốc tế không?",
+        "answer": "Có. Chúng tôi xuất khẩu bằng đường biển và chuẩn bị đầy đủ chứng từ xuất khẩu. Có thể báo giá FOB hoặc CIF đến cảng gần bạn nhất."
+      }
+    ]
+  },
+  {
+    "title": "Lắp đặt, đào tạo và bảo hành",
+    "items": [
+      {
+        "question": "Công ty có lắp đặt máy không?",
+        "answer": "Có. Kỹ sư của chúng tôi lắp đặt, chạy thử tại nhà máy và đào tạo công nhân vận hành cũng như nhân viên bảo trì."
+      },
+      {
+        "question": "Chế độ bảo hành như thế nào?",
+        "answer": "Máy được bảo hành 12 tháng đối với lỗi sản xuất. Phụ tùng hao mòn như dao và dây đai không thuộc phạm vi bảo hành nhưng luôn có sẵn trong kho."
+      },
+      {
+        "question": "Làm sao để mua phụ tùng và nhận hỗ trợ?",
+        "answer": "Liên hệ bộ phận sau bán hàng qua điện thoại, WhatsApp hoặc Zalo. Phụ tùng thông dụng luôn có sẵn và được giao nhanh."
+      }
+    ]
+  }
+]

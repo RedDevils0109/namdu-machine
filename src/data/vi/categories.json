@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "raw-nut-grading",
+    "name": "Sàng phân loại hạt thô",
+    "shortDescription": "Máy sàng lồng phân loại size hạt điều thô trước khi hấp.",
+    "description": "Hạt điều thô có nhiều kích cỡ lẫn nhau. Sàng phân loại size giúp chia hạt thành từng nhóm cỡ để hấp đều và dao chẻ vừa với từng hạt, nâng cao tỷ lệ nhân nguyên.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-rawgrading/900/700", "alt": "Máy sàng phân loại hạt điều thô" },
+    "order": 1
+  },
+  {
+    "slug": "steaming",
+    "name": "Hấp",
+    "shortDescription": "Nồi hấp tĩnh và máy hấp thùng quay giúp nhân tách khỏi vỏ, dễ cắt.",
+    "description": "Hấp chín hạt điều thô bằng hơi bão hòa có áp suất giúp lớp nhân tách khỏi vỏ, để máy tách vỏ cắt dễ, ít vỡ và ít sót. Chọn nồi hấp tĩnh theo nguyên lý autoclave cho sản xuất theo mẻ, hoặc máy hấp thùng quay đảo trộn hạt để chín đồng đều hơn.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-steaming/900/700", "alt": "Nồi hấp hạt điều" },
+    "order": 2
+  },
+  {
+    "slug": "shelling",
+    "name": "Chẻ hạt",
+    "shortDescription": "Máy tách vỏ tự động dạng ngang và dạng xoay, tỷ lệ vỡ dưới 5%.",
+    "description": "Máy tách vỏ cắt từng hạt điều đã hấp để lấy nhân. Chọn máy dạng ngang truyền động xích với 8–15 lưỡi, hoặc máy dạng xoay truyền động bánh răng với 16 đầu cắt cho nhà máy lớn.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-shelling/900/700", "alt": "Máy chẻ hạt điều tự động" },
+    "order": 3
+  },
+  {
+    "slug": "drying",
+    "name": "Sấy khô",
+    "shortDescription": "Máy sấy dạng buồng (Borma) làm vỏ lụa khô, giòn, dễ bóc.",
+    "description": "Sấy có kiểm soát làm vỏ lụa khô, giòn để dễ bóc ở công đoạn sau. Máy sấy dạng buồng (Borma) tuần hoàn khí nóng đảo chiều luân phiên qua các xe khay, giúp nhân khô đều.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-drying/900/700", "alt": "Máy sấy nhân điều" },
+    "order": 4
+  },
+  {
+    "slug": "humidifying",
+    "name": "Làm ẩm",
+    "shortDescription": "Máy làm ẩm giúp nhân sau sấy không bị gãy vỡ khi bóc lụa.",
+    "description": "Nhân sau khi sấy rất giòn. Làm ẩm bổ sung một lượng ẩm nhỏ, có kiểm soát để nhân dẻo hơn và giữ nguyên hạt khi bóc vỏ lụa.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-humidifying/900/700", "alt": "Máy làm ẩm nhân điều" },
+    "order": 5
+  },
+  {
+    "slug": "peeling",
+    "name": "Bóc vỏ lụa",
+    "shortDescription": "Máy bóc vỏ lụa tự động: trống quay làm nứt vỏ lụa, khí nén thổi sạch.",
+    "description": "Máy bóc vỏ lụa làm nứt lớp vỏ lụa mỏng trong trống quay có trục chổi hoặc trục lò xo, rồi thổi bay bằng khí nén áp suất cao, giữ nhân nguyên và trắng.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-peeling/900/700", "alt": "Máy bóc vỏ lụa hạt điều" },
+    "order": 6
+  },
+  {
+    "slug": "air-compressor",
+    "name": "Hệ thống máy nén khí",
+    "shortDescription": "Hệ thống máy nén khí trục vít cung cấp khí nén áp suất cao, sấy khô cho máy bóc vỏ lụa.",
+    "description": "Máy bóc vỏ lụa hạt điều phụ thuộc vào nguồn khí nén áp suất cao, khô và sạch liên tục để thổi bay vỏ lụa khỏi nhân điều. Hệ thống máy nén khí trục vít công nghiệp bao gồm máy nén, máy sấy khí, bình tích khí và bộ lọc tách dầu được thiết kế chuyên dụng cho nhà máy vận hành 24/7.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-compressor/900/700", "alt": "Hệ thống máy nén khí công nghiệp chế biến hạt điều" },
+    "order": 7
+  },
+  {
+    "slug": "kernel-grading",
+    "name": "Phân loại size nhân",
+    "shortDescription": "Máy phân loại nhân điều bằng khe hai trục con lăn theo tiêu chuẩn xuất khẩu.",
+    "description": "Phân loại nhân sau bóc lụa qua khe hở giữa hai trục con lăn vào các cỡ xuất khẩu như W240, W320, W450 và WS, để mỗi thùng hàng đúng yêu cầu của khách mua.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-grading/900/700", "alt": "Máy phân loại size nhân điều" },
+    "order": 8
+  },
+  {
+    "slug": "packing",
+    "name": "Đóng gói",
+    "shortDescription": "Dây chuyền đóng gói chân không kiểm tra và đóng túi nhân điều, bảo quản lâu dài.",
+    "description": "Nhân đã phân loại được kiểm tra lần cuối rồi đóng túi chân không 10–35 kg, hút chân không hoặc nạp CO₂, N₂ hay hỗn hợp khí để giữ chất lượng khi xuất khẩu.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-packing/900/700", "alt": "Dây chuyền đóng gói chân không hạt điều" },
+    "order": 9
+  }
+]

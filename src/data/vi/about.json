@@ -1,0 +1,43 @@
+{
+  "hero": {
+    "title": "Về NAM DU MACHINE",
+    "subtitle": "Đơn vị Việt Nam cung cấp nhà máy chế biến hạt điều trọn gói, trưởng thành từ nhiều năm đồng hành cùng các nhà máy điều.",
+    "image": {
+      "src": "https://picsum.photos/seed/namdu-about-hero/1600/900",
+      "alt": "Xưởng sản xuất NAM DU MACHINE"
+    }
+  },
+  "story": {
+    "title": "Câu chuyện của chúng tôi",
+    "paragraphs": [
+      "NAM DU MACHINE được gây dựng từ đội ngũ nhiều năm chế tạo và sửa chữa máy điều cho các nhà máy địa phương. Lắng nghe công nhân mỗi ngày giúp chúng tôi hiểu rõ máy thường hỏng ở đâu và nhà máy thực sự cần gì.",
+      "Ngày nay chúng tôi chuyên cung cấp trọn gói (turnkey project) các nhà máy chế biến hạt điều tự động với công suất từ 10 đến 100 tấn/ngày. Dây chuyền đầy đủ các khâu, từ sàng phân loại hạt thô, hấp, chẻ hạt đến sấy khô, làm ẩm, bóc vỏ lụa, phân loại size nhân và đóng gói. Chúng tôi đảm nhận thiết kế mặt bằng, máy móc, lắp đặt và chạy thử.",
+      "Châu Phi là thị trường trọng điểm. Chúng tôi tập trung cung cấp công nghệ và máy móc sang các nước như Bờ Biển Ngà, Nigeria, Ghana, Tanzania, giúp các quốc gia này chuyển đổi từ xuất khẩu thô sang chế biến sâu tại chỗ, giữ lại giá trị, việc làm và tay nghề trong nước.",
+      "Hiện tại chúng tôi đã mở rộng sang Nam Á như Ấn Độ, Pakistan và các nước Đông Nam Á."
+    ],
+    "image": {
+      "src": "/images/about-story.jpg",
+      "alt": "Kỹ sư đang lắp ráp máy chế biến hạt điều"
+    }
+  },
+  "mission": "Giúp các nước trồng điều chế biến hạt thô thành nhân thành phẩm ngay tại chỗ, bằng nhà máy trọn gói bền bỉ và dịch vụ hỗ trợ lâu dài.",
+  "vision": "Trở thành đối tác trọn gói đáng tin cậy cho ngành chế biến hạt điều tại châu Phi và châu Á.",
+  "values": [
+    { "icon": "award", "title": "Chất lượng là trên hết", "description": "Mỗi máy đều được chạy thử với hạt điều thô thật trước khi xuất xưởng." },
+    { "icon": "users", "title": "Đồng hành", "description": "Chúng tôi đồng hành cùng khách hàng sau khi giao máy, từ đào tạo đến phụ tùng." },
+    { "icon": "leaf", "title": "Hiệu quả", "description": "Tiết kiệm năng lượng và giảm hao hụt trong mọi thiết kế." },
+    { "icon": "chart", "title": "Cải tiến liên tục", "description": "Phản hồi từ nhà máy được đưa ngay vào thiết kế máy tiếp theo." }
+  ],
+  "milestones": [
+    { "year": "2008", "title": "Thành lập công ty", "description": "Bắt đầu chế tạo, sửa chữa và nâng cấp máy điều cho các nhà máy địa phương." },
+    { "year": "2012", "title": "Máy chẻ hạt tự động đầu tiên", "description": "Ra mắt máy chẻ hạt điều tự động do chúng tôi tự thiết kế." },
+    { "year": "2016", "title": "Nhà máy trọn gói đầu tiên", "description": "Bàn giao nhà máy tự động hoàn chỉnh cho mọi công đoạn từ sàng phân loại hạt thô đến đóng gói." },
+    { "year": "2019", "title": "Nhà máy đầu tiên tại châu Phi", "description": "Lắp đặt nhà máy trọn gói tại Tây Phi, giúp một đơn vị xuất khẩu hạt thô bắt đầu chế biến tại chỗ." },
+    { "year": "2024", "title": "Mở rộng sang châu Á", "description": "Mở rộng dự án trọn gói sang Nam Á như Ấn Độ, Pakistan và khu vực Đông Nam Á." }
+  ],
+  "factoryVideos": [{ "id": "factory-tour" }, { "id": "full-line-demo" }],
+  "certifications": [
+    { "name": "ISO 9001:2015", "issuer": "Quản lý chất lượng", "image": { "src": "/images/iso-9001.jpg", "alt": "Chứng nhận ISO 9001" } },
+    { "name": "Chứng nhận CE", "issuer": "Tiêu chuẩn châu Âu", "image": { "src": "/images/ce-cert.jpg", "alt": "Chứng nhận CE" } }
+  ]
+}

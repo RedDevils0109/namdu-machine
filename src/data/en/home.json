@@ -1,0 +1,123 @@
+{
+  "hero": {
+    "eyebrow": "Cashew machine provider from Vietnam",
+    "title": "Turnkey cashew processing plants from 10 to 100 tonnes a day",
+    "subtitle": "We deliver fully automatic cashew factories as turnkey projects, covering every stage from raw nut grading, steaming, and shelling to peeling, kernel grading, and packing. We design the layout, build the machines, and install and commission the whole plant.",
+    "image": {
+      "src": "/images/home-hero.png",
+      "alt": "Cashew processing line inside a factory"
+    },
+    "primaryCta": { "label": "Explore machines", "href": "/products" },
+    "secondaryCta": { "label": "Talk to an engineer", "href": "/contact" }
+  },
+  "stats": [
+    { "value": "10–100", "label": "Tonnes per day per plant" },
+    { "value": "9", "label": "Processing stages covered" },
+    { "value": "20+", "label": "Countries served" },
+    { "value": "24/7", "label": "Technical support" }
+  ],
+  "whyChooseUs": {
+    "title": "Why factories choose NAM DU",
+    "subtitle": "We build every machine for the realities of cashew processing: hard shells, corrosive CNSL oil, dust, heat, and long shifts.",
+    "items": [
+      {
+        "icon": "gear",
+        "title": "Turnkey projects",
+        "description": "One contract from factory layout and machine supply to installation and commissioning, sized from 10 to 100 tonnes a day."
+      },
+      {
+        "icon": "shield",
+        "title": "Built to last",
+        "description": "Food-grade stainless steel contact parts and heavy-duty frames for years of continuous work."
+      },
+      {
+        "icon": "wrench",
+        "title": "Installation and training",
+        "description": "Our engineers install on site and train your operators until the line runs smoothly."
+      },
+      {
+        "icon": "truck",
+        "title": "Spare parts ready",
+        "description": "Common wear parts are kept in stock and shipped fast to keep downtime low."
+      },
+      {
+        "icon": "globe",
+        "title": "Export experience",
+        "description": "Plants running across Africa, South Asia, and Southeast Asia, with full documentation for export."
+      },
+      {
+        "icon": "headset",
+        "title": "Responsive support",
+        "description": "Remote troubleshooting by phone, WhatsApp, or Zalo, with engineers available to travel."
+      }
+    ]
+  },
+  "process": {
+    "title": "One partner for the whole processing line",
+    "subtitle": "A fully automatic line covering all nine stages, with machines designed to work together.",
+    "steps": [
+      { "step": 1, "title": "Raw nut grading", "description": "Sort raw nuts by size so each group steams and splits evenly.", "categorySlug": "raw-nut-grading" },
+      { "step": 2, "title": "Steaming", "description": "Make shells brittle in a static or rotary steamer.", "categorySlug": "steaming" },
+      { "step": 3, "title": "Shelling", "description": "Split each nut and release the kernel with minimal breakage.", "categorySlug": "shelling" },
+      { "step": 4, "title": "Drying", "description": "Lower kernel moisture so the testa loosens.", "categorySlug": "drying" },
+      { "step": 5, "title": "Humidifying", "description": "Condition kernels so they stay whole during peeling.", "categorySlug": "humidifying" },
+      { "step": 6, "title": "Peeling", "description": "Remove the testa skin gently and evenly.", "categorySlug": "peeling" },
+      { "step": 7, "title": "Air compression", "description": "Supply high-pressure dry air for pneumatic peeling.", "categorySlug": "air-compressor" },
+      { "step": 8, "title": "Kernel grading", "description": "Sort kernels by size into export grades.", "categorySlug": "kernel-grading" },
+      { "step": 9, "title": "Packing", "description": "Vacuum pack kernels for long shelf life.", "categorySlug": "packing" }
+    ]
+  },
+  "markets": {
+    "title": "Helping cashew-growing countries process at home",
+    "subtitle": "Instead of exporting raw nuts, growing countries can process them locally and keep the value, jobs, and skills at home. Our plants make that shift possible.",
+    "regions": [
+      {
+        "name": "Africa",
+        "description": "Our main focus. We supply technology and machines that help African producers move from raw nut export to deep processing in their own country.",
+        "countries": ["Côte d'Ivoire", "Nigeria", "Ghana", "Tanzania", "and more"],
+        "highlight": true
+      },
+      {
+        "name": "South Asia",
+        "description": "Plants and machines for established processing hubs that want higher capacity and more automation.",
+        "countries": ["India", "Pakistan"]
+      },
+      {
+        "name": "Southeast Asia",
+        "description": "Turnkey plants and single-stage upgrades for processors across the region.",
+        "countries": []
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "The shelling line doubled our daily output and the kernel wholeness rate is better than our previous machines. Installation took less than a week.",
+      "author": "John Sample",
+      "role": "Factory Manager",
+      "company": "Sample Cashew Co.",
+      "country": "Vietnam",
+      "avatar": "https://picsum.photos/seed/namdu-avatar-1/200/200"
+    },
+    {
+      "quote": "Their engineers stayed until our operators were confident. Spare parts arrive quickly, which matters a lot during the harvest season.",
+      "author": "Jane Citizen",
+      "role": "Operations Director",
+      "company": "Example Agro Processing",
+      "country": "Côte d'Ivoire",
+      "avatar": "https://picsum.photos/seed/namdu-avatar-2/200/200"
+    },
+    {
+      "quote": "We bought a full line from raw nut grading to packing. One supplier for everything made planning and maintenance much simpler.",
+      "author": "Alex Example",
+      "role": "Owner",
+      "company": "Demo Nuts Ltd.",
+      "country": "India",
+      "avatar": "https://picsum.photos/seed/namdu-avatar-3/200/200"
+    }
+  ],
+  "cta": {
+    "title": "Planning a new line or upgrading your factory?",
+    "subtitle": "Tell us your capacity target and raw material. We will recommend the right machines and send a quotation.",
+    "buttonLabel": "Request a quote"
+  }
+}

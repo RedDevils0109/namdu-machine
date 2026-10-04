@@ -1,0 +1,23 @@
+[
+  {
+    "id": "factory-tour",
+    "title": "Factory tour: how we build our machines",
+    "description": "Walk through our workshop, from steel cutting and welding to final testing with raw cashew.",
+    "videoUrl": "https://res.cloudinary.com/whle9ogj/video/upload/v1791038773/namdu-cashew-factory.mp4",
+    "topic": "Company"
+  },
+  {
+    "id": "full-line-demo",
+    "title": "Complete processing line in operation",
+    "description": "A full line running from raw nut grading to packing at a customer factory.",
+    "videoUrl": "https://res.cloudinary.com/whle9ogj/video/upload/v1791038359/namdu-cashew-process-video.mp4",
+    "topic": "Processing line"
+  },
+  {
+    "id": "installation-africa",
+    "title": "Line installation for an export customer",
+    "description": "Our engineers installing and commissioning a line abroad.",
+    "videoUrl": "https://res.cloudinary.com/whle9ogj/video/upload/v1791038593/namdu-cashew-installation.mp4",
+    "topic": "Installation"
+  }
+]

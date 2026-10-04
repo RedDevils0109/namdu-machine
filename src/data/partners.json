@@ -1,0 +1,10 @@
+[
+  { "name": "Sample Agro", "logo": "/images/partners/sample-agro.svg", "link": "https://example.com" },
+  { "name": "Example Foods", "logo": "/images/partners/example-foods.svg" },
+  { "name": "Demo Nuts", "logo": "/images/partners/demo-nuts.svg", "link": "https://example.org" },
+  { "name": "Test Kernel Co", "logo": "/images/partners/test-kernel.svg" },
+  { "name": "Placeholder Trading", "logo": "/images/partners/placeholder-trading.svg", "link": "https://example.net" },
+  { "name": "Mock Harvest", "logo": "/images/partners/mock-harvest.svg" },
+  { "name": "Sample Export", "logo": "/images/partners/sample-export.svg", "link": "https://example.com" },
+  { "name": "Example Processing", "logo": "/images/partners/example-processing.svg" }
+]

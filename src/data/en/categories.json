@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "raw-nut-grading",
+    "name": "Raw Nut Grading",
+    "shortDescription": "Drum sieve graders that sort raw cashew nuts by size before steaming.",
+    "description": "Raw cashew nuts (RCN) come in mixed sizes. Grading, also called calibration, sorts them into size groups so each group is steamed evenly and the shelling blades fit every nut, which raises the whole-kernel rate.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-rawgrading/900/700", "alt": "Raw cashew nut grader" },
+    "order": 1
+  },
+  {
+    "slug": "steaming",
+    "name": "Steaming",
+    "shortDescription": "Static and rotary drum steamers that cook raw nuts so the kernel loosens from the shell.",
+    "description": "Steaming cooks raw cashew nuts with pressurised saturated steam so the kernel loosens from the shell and the shelling machine cuts easily, with fewer broken and uncut nuts. Choose a static autoclave-style cooker for batch work or a rotary drum steamer that tumbles nuts for more even cooking.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-steaming/900/700", "alt": "Cashew steam cooker" },
+    "order": 2
+  },
+  {
+    "slug": "shelling",
+    "name": "Shelling",
+    "shortDescription": "Horizontal and rotary automatic shelling machines with under 5% broken.",
+    "description": "Shelling, also called cutting, splits each steamed nut and releases the kernel. Choose a horizontal chain-driven sheller with 8–15 blades, or a gear-driven rotary sheller with 16 cutting heads for large plants.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-shelling/900/700", "alt": "Automatic cashew shelling machine" },
+    "order": 3
+  },
+  {
+    "slug": "drying",
+    "name": "Drying",
+    "shortDescription": "Borma chamber dryers that make the testa dry and brittle for peeling.",
+    "description": "Controlled drying makes the testa (skin) dry and brittle so it peels easily in the next step. Our Borma chamber dryer circulates hot air in alternating directions across trolleys of trays for even drying.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-drying/900/700", "alt": "Cashew kernel dryer" },
+    "order": 4
+  },
+  {
+    "slug": "humidifying",
+    "name": "Humidifying",
+    "shortDescription": "Humidifiers that condition dried kernels so they don't break during peeling.",
+    "description": "Dried kernels are brittle. Humidifying, also called kernel conditioning, adds back a small, controlled amount of moisture so kernels become slightly flexible and stay whole during peeling.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-humidifying/900/700", "alt": "Cashew kernel humidifier" },
+    "order": 5
+  },
+  {
+    "slug": "peeling",
+    "name": "Peeling",
+    "shortDescription": "Automatic peelers that crack the testa in a drum and blow it off with compressed air.",
+    "description": "Peeling, also called testa removal, cracks the thin skin in a rotating drum with brush or spring rollers, then blows it off with high-pressure compressed air, keeping kernels whole and white.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-peeling/900/700", "alt": "Cashew peeling machine" },
+    "order": 6
+  },
+  {
+    "slug": "air-compressor",
+    "name": "Air Compressors",
+    "shortDescription": "Rotary screw air compressor systems providing dry, high-pressure air for pneumatic peeling.",
+    "description": "Cashew peeling machines rely on a continuous supply of clean, dry, high-pressure compressed air to blow the loosened skin off kernels. Our industrial rotary screw air compressor systems include air dryers, receivers, and oil separators engineered for heavy-duty 24/7 factory operations.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-compressor/900/700", "alt": "Cashew industrial air compressor system" },
+    "order": 7
+  },
+  {
+    "slug": "kernel-grading",
+    "name": "Kernel Grading",
+    "shortDescription": "Twin-roller graders that sort kernels by size into export grades.",
+    "description": "Kernel grading sorts peeled kernels through the gap between two rollers into export grades such as W240, W320, W450 and WS, so every carton meets the buyer's specification.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-grading/900/700", "alt": "Cashew kernel grading machine" },
+    "order": 8
+  },
+  {
+    "slug": "packing",
+    "name": "Packing",
+    "shortDescription": "Vacuum packing lines that inspect and seal kernels for long shelf life.",
+    "description": "Graded kernels pass a final inspection, then are packed in 10–35 kg vacuum bags, sealed under vacuum or flushed with CO₂, N₂ or a gas mix to protect quality for export.",
+    "image": { "src": "https://picsum.photos/seed/namdu-cat-packing/900/700", "alt": "Cashew vacuum packing line" },
+    "order": 9
+  }
+]

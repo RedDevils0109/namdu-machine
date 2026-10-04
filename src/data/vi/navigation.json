@@ -1,0 +1,35 @@
+{
+  "header": [
+    { "label": "Trang chủ", "href": "/" },
+    { "label": "Giới thiệu", "href": "/about" },
+    { "label": "Sản phẩm", "href": "/products" },
+    { "label": "Video", "href": "/videos" },
+    { "label": "Hỏi đáp", "href": "/faq" },
+    { "label": "Liên hệ", "href": "/contact" }
+  ],
+  "footer": [
+    {
+      "title": "Công ty",
+      "links": [
+        { "label": "Giới thiệu", "href": "/about" },
+        { "label": "Video", "href": "/videos" },
+        { "label": "Hỏi đáp", "href": "/faq" },
+        { "label": "Liên hệ", "href": "/contact" }
+      ]
+    },
+    {
+      "title": "Máy móc",
+      "links": [
+        { "label": "Sàng phân loại hạt thô", "href": "/products/raw-nut-grading" },
+        { "label": "Hấp", "href": "/products/steaming" },
+        { "label": "Chẻ hạt", "href": "/products/shelling" },
+        { "label": "Sấy khô", "href": "/products/drying" },
+        { "label": "Làm ẩm", "href": "/products/humidifying" },
+        { "label": "Bóc vỏ lụa", "href": "/products/peeling" },
+        { "label": "Hệ thống máy nén khí", "href": "/products/air-compressor" },
+        { "label": "Phân loại size nhân", "href": "/products/kernel-grading" },
+        { "label": "Đóng gói", "href": "/products/packing" }
+      ]
+    }
+  ]
+}
